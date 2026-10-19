@@ -1,4 +1,8 @@
-# PenPilot downloads
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="PenPilot icon: a plotter's pen carriage drawing a line">
+</p>
+
+<h1 align="center">PenPilot downloads</h1>
 
 PenPilot is a standalone app for the **AxiDraw V3** pen plotter, on Mac and Windows. Put
 drawings, photos and text (handwriting and Arabic fonts too) on a page, turn them into pen
